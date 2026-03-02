@@ -19,5 +19,12 @@
         "password": "abcd",
         "expirydate": "09-03-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "185252f3a2509ffd",
+        "username": "Rabbi",
+        "password": "Rabbi",
+        "expirydate": "09-03-2026",
+        "Allowoffline": false
     }
 ]
